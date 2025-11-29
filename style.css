@@ -26,7 +26,7 @@ body {
 }
 
 h1 {
-    font-family: "Playwrite GB J", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Playwrite GB J", cursive;
     align-items: center;
     color: #6f4e37;
     text-align: center;
@@ -39,7 +39,7 @@ h1 {
 }
 
 h3 {
-    font-family: "Playwrite GB J", cursive;
+    font-family: "Lexend Deca", sans-serif;
     color: #6f4e37;
     margin-bottom: 15px;
     font-size: 18px;
@@ -60,9 +60,10 @@ label {
 }
 
 textarea {
+    font-family: "Courier New", monospace;
     width: 100%;
     padding: 12px;
-    border: 2px solid #e0e0e0;
+    border: 2px solid #291e1e;
     border-radius: 4px;
     font-size: 16px;
     resize: vertical;
@@ -73,7 +74,7 @@ textarea {
 
 textarea:focus {
     outline: none;
-    border-color: #2a5298;
+    border-color: #291e1e;
 }
 
 .char-count {
@@ -89,7 +90,7 @@ textarea:focus {
     border-radius: 4px;
     border: 2px solid #6f4e37;
     min-height: 60px;
-    font-family: 'Courier New', monospace;
+    font-family: 'Lexend Deca', sans-serif;
     color: #6f4e37;
     line-height: 1.8;
 }
@@ -147,15 +148,15 @@ button:active {
     border-radius: 4px;
     border: 2px solid #6f4e37;
     min-height: 60px;
-    font-family: 'Courier New', monospace;
+    font-family: 'Lexend Deca', sans-serif;
     color: #333;
     word-wrap: break-word;
 }
 
 .error {
-    color: #d32f2f;
+    color: #f19e9e;
     background: #ffebee;
-    border-color: #d32f2f;
+    border-color: #f0a0a0;
 }
 
 .site-footer {
@@ -167,7 +168,7 @@ button:active {
 
 .meta {
     text-align: center;
-    color: #777;
+    color: #413939;
     font-size: 14px;
     margin-top: 30px;
 }
