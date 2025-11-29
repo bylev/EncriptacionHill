@@ -98,7 +98,7 @@ function validarClave(key) {
 
     if (detMod === 0 || gcd(detMod, 26) !== 1) {
         resultado.textContent =
-            'Error: La matriz no es invertible módulo 26 (determinante inválido)';
+            'Error: La matriz clave no es invertible. Por favor, ingresa una clave válida.';
         resultado.classList.add('error');
         return null;
     }
