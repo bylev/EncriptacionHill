@@ -10,7 +10,7 @@
 - [Estructura del proyecto](#estructura-del-proyecto)
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Instrucciones de uso](#instrucciones-de-uso)
-- [Detalles sobre las matemátocas del cifrado Hill](#detalles-sobre-las-matemátocas-del-cifrado-hill)
+- [Detalles sobre las matemáticas del cifrado Hill](#detalles-sobre-las-matemáticas-del-cifrado-hill)
 - [Interfaz de usuario](#interfaz-de-usuario)
     - [Presentación visual](#presentación-visual)
         - [Paleta (coffee / pastel)](#paleta-coffee--pastel)
@@ -88,7 +88,7 @@ Este proyecto implementa el cifrado Hill, un método de cifrado por bloques que 
 
 ---
 
-# Detalles sobre las matemátocas del cifrado Hill
+# Detalles sobre las matemáticas del cifrado Hill
 
 1. **Algebra lineal**: El cifrado Hill utiliza matrices para transformar bloques de texto plano en texto cifrado mediante multiplicación matricial.
 
