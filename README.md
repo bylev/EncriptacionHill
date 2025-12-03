@@ -219,10 +219,8 @@ Esta personalización busca que la aplicación sea funcional y tenga una identid
 ---
 
 # Demostración en línea
-Puedes probar la aplicación en línea en el siguiente enlace:
-
-[![Demo en Netlify](https://api.netlify.com/api/v1/badges/71efd8ba-cb5c-4c14-945b-879721987994/deploy-status)](https://app.netlify.com/projects/encriptationhill/deploys)
-
+Puedes probar la aplicación en línea aquí:  
+👉 [Encriptación Hill – Demo](https://bylev.github.io/EncriptacionHill/)
 
 --- 
 
